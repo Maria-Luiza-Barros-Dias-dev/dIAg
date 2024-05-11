@@ -1,6 +1,11 @@
-# dIAg
+# <h1 align="center"> dIAg: Um Sistema Inteligente para Análise de Hemogramas </h1>
 
-dIAg: Um Sistema Inteligente para Análise de Hemogramas
+
+<h2 align="center"> 
+    :chart_with_upwards_trend: Solução :chart_with_upwards_trend:
+</h2>
+
+
 
 O dIAg utiliza inteligência artificial (IA) generativa - Gemini - para automatizar a análise de hemogramas.
 Para tanto, o sistema compara os valores de resultado dos exames de pacientes com os valores de referência, sugerindo possíveis diagnósticos.
@@ -8,21 +13,15 @@ Além de pacientes, profissionais de saúde de diferentes áreas podem utitlizar
 Para os pacientes o dIAg alerta sobre a necessidade de ter uma avaliação médica precisa a construção de um diagnóstico real!
 
 
-Funcionamento do dIAg
+# :bulb: Funcionamento do dIAg
 
-Entrada de Dados: O usuário fornece o sexo do paciente e o valor do hemograma que deseja analisar.
-
-Processamento de IA: O sistema utiliza IA para comparar o valor do paciente com os valores de referência e sugerir possíveis diagnósticos.
-
-Apresentação dos Resultados: dIAg apresenta os resultados de forma clara e concisa, incluindo:
-    -Valor de referência para o hemograma em questão.
-    -Comparação entre o valor do paciente e o valor de referência.
-    -Sugestões de possíveis diagnósticos.
-    
-Interpretação e Ação: O profissional de saúde pode utilizar das informações fornecidas pelo dIAg para interpretar os resultados do hemograma e tomar as medidas cabíveis. Já o paciente, pode obter um alerta e procurar o quanto antes um profissional de saúde. 
+- `Entrada de Dados`:  O usuário fornece o sexo do paciente e o valor do hemograma que deseja analisar.
+- `Processamento de IA`: O sistema utiliza IA para comparar o valor do paciente com os valores de referência e sugerir possíveis diagnósticos.
+- `Apresentação dos Resultados`: dIAg apresenta os resultados de forma clara e concisa, incluindo: valor de referência para o hemograma em questão;comparação entre o valor do paciente e o valor de referência e sugestões de possíveis diagnósticos.
+- `Interpretação e Ação`: O profissional de saúde pode utilizar das informações fornecidas pelo dIAg para interpretar os resultados do hemograma e tomar as medidas cabíveis. Já o paciente, pode obter um alerta e procurar o quanto antes um profissional de saúde. 
 
 
-Benefícios do dIAg 
+# :watch: Benefícios do dIAg 
 
 1. Empoderamento e Autonomia:
 O dIAg pode auxiliar pacientes a compreenderem melhor seus resultados de hemogramas, promovendo o empoderamento e a autonomia na gestão da própria saúde.
