@@ -9,7 +9,7 @@
 
 O dIAg utiliza inteligência artificial (IA) generativa - Gemini - para automatizar a análise de hemogramas.
 Para tanto, o sistema compara os valores de resultado dos exames de pacientes com os valores de referência, sugerindo possíveis diagnósticos.
-Além de pacientes, profissionais de saúde de diferentes áreas podem utitlizar o dIAg, pois ele fornece informações de forma clara e concisa, facilitando a interpretação dos resultados.
+Além de pacientes, profissionais de saúde de diferentes áreas podem utilizar o dIAg, pois ele fornece informações de forma clara e concisa, facilitando a interpretação dos resultados.
 Para os pacientes, o dIAg alerta sobre a necessidade de ter uma avaliação médica precisa para a construção de um diagnóstico real!
 
 
